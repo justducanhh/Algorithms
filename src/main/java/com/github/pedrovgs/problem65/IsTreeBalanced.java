@@ -26,7 +26,7 @@ import com.github.pedrovgs.binarytree.BinaryNode;
  */
 public class IsTreeBalanced {
 
-  /**
+  /*
    * Recursive algorithm to check if a binary tree is balanced. The complexity order in time terms
    * of this algorithm is equals to O(N) where N is the number of nodes in the binary tree. In
    * space terms, the complexity order is O(1) because we are not using any auxiliary data
