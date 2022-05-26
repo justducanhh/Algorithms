@@ -32,6 +32,7 @@ public class IsTreeBalanced {
    * space terms, the complexity order is O(1) because we are not using any auxiliary data
    * structure to resolve this problem. This algorithm is based on the tree height because the
    * balanced tree definition is based on this.
+   *xin chao day la pull request cua duc anh 
    */
   public boolean check(BinaryNode root) {
     if (root == null) {
